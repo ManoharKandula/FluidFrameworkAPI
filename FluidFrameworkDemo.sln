@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32602.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FluidFrameworkDemo", "FluidFrameworkDemo.csproj", "{D4FE7FE1-E430-44D7-A277-87C60DEB15F4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D4FE7FE1-E430-44D7-A277-87C60DEB15F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4FE7FE1-E430-44D7-A277-87C60DEB15F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4FE7FE1-E430-44D7-A277-87C60DEB15F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4FE7FE1-E430-44D7-A277-87C60DEB15F4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {26344DDE-0BFB-425C-8F62-F68D4A5913BD}
+	EndGlobalSection
+EndGlobal
